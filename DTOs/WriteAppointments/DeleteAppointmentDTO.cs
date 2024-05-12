@@ -9,6 +9,6 @@ namespace DTOs.WriteAppointments
     public class DeleteAppointmentDTO
     {
         public string Jmbg {  get; set; }
-        public string AppointmentId { get; set; }
+        public Guid AppointmentId { get; set; }
     }
 }
