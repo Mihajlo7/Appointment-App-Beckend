@@ -1,0 +1,12 @@
+ï
+âC:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\DTOs\obj\Debug\net6.0\DTOs.AssemblyInfo.csutf-8Ø
+£C:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\DTOs\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8ó
+ãC:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\DTOs\obj\Debug\net6.0\DTOs.GlobalUsings.g.csutf-8ó
+çC:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\DTOs\WriteAppointments\UpdateAppointmentDTO.csutf-8ó
+çC:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\DTOs\WriteAppointments\InsertAppointmentDTO.csutf-8ó
+çC:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\DTOs\WriteAppointments\DeleteAppointmentDTO.csutf-8é
+ÑC:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\DTOs\Response\ActionAppointmentDTO.csutf-8ò
+éC:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\DTOs\GetOverweightPeople\OverweightPeopleDTO.csutf-8ç
+ÉC:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\DTOs\GetMaxHeight\GetMaxHeightDTO.csutf-8ù
+ìC:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\DTOs\GetAppointments\GetPersonWithAppointmentsDTO.csutf-8í
+àC:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\DTOs\GetAppointments\GetAppointmentDTO.csutf-8

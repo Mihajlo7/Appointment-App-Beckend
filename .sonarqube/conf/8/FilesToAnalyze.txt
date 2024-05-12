@@ -1,0 +1,7 @@
+﻿C:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\RepositoriesTests\RepositoryTests.cs
+C:\Users\Mihajlo.DESKTOP-T538ONP\.nuget\packages\microsoft.net.test.sdk\17.9.0\build\netcoreapp3.1\Microsoft.NET.Test.Sdk.Program.cs
+C:\Users\Mihajlo.DESKTOP-T538ONP\.nuget\packages\microsoft.testplatform.testhost\17.9.0\build\netcoreapp3.1\x64\testhost.exe
+C:\Users\Mihajlo.DESKTOP-T538ONP\.nuget\packages\microsoft.testplatform.testhost\17.9.0\build\netcoreapp3.1\x64\testhost.dll
+C:\Users\Mihajlo.DESKTOP-T538ONP\.nuget\packages\xunit.runner.visualstudio\2.8.0\build\net6.0\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Mihajlo.DESKTOP-T538ONP\.nuget\packages\xunit.runner.visualstudio\2.8.0\build\net6.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Mihajlo.DESKTOP-T538ONP\.nuget\packages\xunit.runner.visualstudio\2.8.0\build\net6.0\xunit.runner.utility.netcoreapp10.dll

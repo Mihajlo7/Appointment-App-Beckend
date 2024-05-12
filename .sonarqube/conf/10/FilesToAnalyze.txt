@@ -1,0 +1,14 @@
+﻿C:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\AppointmentsAPI\Controllers\AppointmentController.cs
+C:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\AppointmentsAPI\Controllers\PersonsController.cs
+C:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\AppointmentsAPI\Controllers\TestController.cs
+C:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\AppointmentsAPI\Extensions\ServiceConfigure.cs
+C:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\AppointmentsAPI\Program.cs
+C:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\AppointmentsAPI\obj\Debug\net6.0\AppointmentsAPI.GlobalUsings.g.cs
+C:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\AppointmentsAPI\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+C:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\AppointmentsAPI\obj\Debug\net6.0\AppointmentsAPI.AssemblyInfo.cs
+C:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\AppointmentsAPI\obj\Debug\net6.0\AppointmentsAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\AppointmentsAPI\nlog.config
+C:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\AppointmentsAPI\appsettings.Development.json
+C:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\AppointmentsAPI\appsettings.json
+C:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\AppointmentsAPI\internal_logs\internallog.txt
+C:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\AppointmentsAPI\Properties\launchSettings.json

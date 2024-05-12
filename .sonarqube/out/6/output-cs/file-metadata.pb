@@ -1,0 +1,11 @@
+¨
+†C:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\DapperContext\obj\Debug\net6.0\DapperRepositories.AssemblyInfo.csutf-8∏
+¨C:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\DapperContext\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8Æ
+¢C:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\DapperContext\obj\Debug\net6.0\DapperRepositories.GlobalUsings.g.csutf-8ó
+ãC:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\DapperContext\SqlQueries\Scripts.Designer.csutf-8è
+ÖC:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\DapperContext\Repository\Repository.csutf-8ê
+ÜC:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\DapperContext\Repository\IRepository.csutf-8~
+uC:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\DapperContext\RepoH.csutf-8
+vC:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\DapperContext\IRepoH.csutf-8ê
+ÜC:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\DapperContext\Context\IDapperContext.csutf-8è
+ÖC:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\DapperContext\Context\DapperContext.csutf-8
