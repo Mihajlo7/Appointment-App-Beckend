@@ -1,0 +1,8 @@
+﻿C:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\DTOs\GetAppointments\GetAppointmentDTO.cs
+C:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\DTOs\GetAppointments\GetPersonWithAppointmentsDTO.cs
+C:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\DTOs\GetMaxHeight\GetMaxHeightDTO.cs
+C:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\DTOs\GetOverweightPeople\OverweightPeopleDTO.cs
+C:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\DTOs\Response\ActionAppointmentDTO.cs
+C:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\DTOs\WriteAppointments\DeleteAppointmentDTO.cs
+C:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\DTOs\WriteAppointments\InsertAppointmentDTO.cs
+C:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\DTOs\WriteAppointments\UpdateAppointmentDTO.cs

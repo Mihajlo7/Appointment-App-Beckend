@@ -1,0 +1,10 @@
+æ
+≤C:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\AppointmentsAPI\obj\Debug\net6.0\AppointmentsAPI.MvcApplicationPartsAssemblyInfo.csutf-8´
+üC:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\AppointmentsAPI\obj\Debug\net6.0\AppointmentsAPI.AssemblyInfo.csutf-8∫
+ÆC:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\AppointmentsAPI\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8≠
+°C:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\AppointmentsAPI\obj\Debug\net6.0\AppointmentsAPI.GlobalUsings.g.csutf-8Ç
+yC:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\AppointmentsAPI\Program.csutf-8ó
+çC:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\AppointmentsAPI\Extensions\ServiceConfigure.csutf-8ñ
+åC:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\AppointmentsAPI\Controllers\TestController.csutf-8ô
+èC:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\AppointmentsAPI\Controllers\PersonsController.csutf-8ù
+ìC:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\AppointmentsAPI\Controllers\AppointmentController.csutf-8

@@ -1,0 +1,234 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "4.8.0.0",
+        "fileVersion": "4.8.0-1.23374.10 (520e2f10)",
+        "semanticVersion": "4.8.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "CS8625",
+          "level": "warning",
+          "message": "Cannot convert null literal to non-nullable reference type.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DapperContext/Repository/IRepository.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 65,
+                  "endLine": 13,
+                  "endColumn": 69
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1450",
+          "level": "warning",
+          "message": "Remove the field '_configuration' and declare it as a local variable in the relevant methods.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DapperContext/Context/DapperContext.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 41,
+                  "endLine": 14,
+                  "endColumn": 55
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1006",
+          "level": "warning",
+          "message": "Add the default parameter value defined in the overridden method.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DapperContext/Repository/Repository.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 72,
+                  "endLine": 32,
+                  "endColumn": 77
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'result'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DapperContext/RepoH.cs",
+                "region": {
+                  "startLine": 106,
+                  "startColumn": 25,
+                  "endLine": 106,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'result'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DapperContext/RepoH.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 25,
+                  "endLine": 37,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'result'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DapperContext/RepoH.cs",
+                "region": {
+                  "startLine": 137,
+                  "startColumn": 25,
+                  "endLine": 137,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1824",
+          "level": "note",
+          "message": "Mark assemblies with NeutralResourcesLanguageAttribute",
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "CA1824": {
+          "id": "CA1824",
+          "shortDescription": "Mark assemblies with NeutralResourcesLanguageAttribute",
+          "fullDescription": "The NeutralResourcesLanguage attribute informs the ResourceManager of the language that was used to display the resources of a neutral culture for an assembly. This improves lookup performance for the first resource that you load and can reduce your working set.",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1824",
+          "properties": {
+            "category": "Performance",
+            "isEnabledByDefault": true,
+            "tags": [
+              "PortedFromFxCop",
+              "Telemetry",
+              "EnabledRuleInAggressiveMode",
+              "CompilationEnd"
+            ]
+          }
+        },
+        "CS8625": {
+          "id": "CS8625",
+          "shortDescription": "Cannot convert null literal to non-nullable reference type.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8625)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "S1006": {
+          "id": "S1006",
+          "shortDescription": "Method overrides should not change parameter defaults",
+          "fullDescription": "Default arguments are determined by the static type of the object.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1006",
+          "properties": {
+            "category": "Critical Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S1450": {
+          "id": "S1450",
+          "shortDescription": "Private fields only used as local variables in methods should become local variables",
+          "fullDescription": "When the value of a private field is always assigned to in a class' methods before being read, then it is not being used to store class information. Therefore, it should become a local variable in the relevant methods to prevent any misunderstanding.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1450",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S1481": {
+          "id": "S1481",
+          "shortDescription": "Unused local variables should be removed",
+          "fullDescription": "An unused local variable is a variable that has been declared but is not used anywhere in the block of code where it is defined. It is dead code, contributing to unnecessary complexity and leading to confusion when reading the code. Therefore, it should be removed from your code to maintain clarity and efficiency.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1481",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

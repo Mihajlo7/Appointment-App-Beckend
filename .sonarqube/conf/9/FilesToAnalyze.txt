@@ -1,0 +1,12 @@
+﻿C:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\MediatorCqrs\Commands\DeleteAppointmentCommand.cs
+C:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\MediatorCqrs\Commands\InsertAppointmentCommand.cs
+C:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\MediatorCqrs\Commands\UpdateAppointmentCommand.cs
+C:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\MediatorCqrs\Handlers\DeleteAppointmentHandler.cs
+C:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\MediatorCqrs\Handlers\GetMaxHeightHandler.cs
+C:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\MediatorCqrs\Handlers\GetOverweightPeopleHandler.cs
+C:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\MediatorCqrs\Handlers\GetPersonByJmbgHandler.cs
+C:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\MediatorCqrs\Handlers\InsertAppointmentHandler.cs
+C:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\MediatorCqrs\Handlers\UpdateAppointmentHandler.cs
+C:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\MediatorCqrs\Queries\GetMaxHeightQuery.cs
+C:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\MediatorCqrs\Queries\GetOverweightQuery.cs
+C:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\MediatorCqrs\Queries\GetPersonByJmbgQuery.cs

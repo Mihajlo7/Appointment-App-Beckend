@@ -1,0 +1,1 @@
+SELECT * FROM dbo.view_Emergency_Appointments;

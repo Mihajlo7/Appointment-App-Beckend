@@ -1,0 +1,16 @@
+•
+ôC:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\MediatorCqrs\obj\Debug\net6.0\MediatorCqrs.AssemblyInfo.csutf-8∑
+´C:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\MediatorCqrs\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8ß
+õC:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\MediatorCqrs\obj\Debug\net6.0\MediatorCqrs.GlobalUsings.g.csutf-8ï
+ãC:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\MediatorCqrs\Queries\GetPersonByJmbgQuery.csutf-8ì
+âC:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\MediatorCqrs\Queries\GetOverweightQuery.csutf-8í
+àC:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\MediatorCqrs\Queries\GetMaxHeightQuery.csutf-8ö
+êC:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\MediatorCqrs\Handlers\UpdateAppointmentHandler.csutf-8ö
+êC:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\MediatorCqrs\Handlers\InsertAppointmentHandler.csutf-8ò
+éC:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\MediatorCqrs\Handlers\GetPersonByJmbgHandler.csutf-8ú
+íC:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\MediatorCqrs\Handlers\GetOverweightPeopleHandler.csutf-8ï
+ãC:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\MediatorCqrs\Handlers\GetMaxHeightHandler.csutf-8ö
+êC:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\MediatorCqrs\Handlers\DeleteAppointmentHandler.csutf-8ö
+êC:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\MediatorCqrs\Commands\UpdateAppointmentCommand.csutf-8ö
+êC:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\MediatorCqrs\Commands\InsertAppointmentCommand.csutf-8ö
+êC:\Users\Mihajlo.DESKTOP-T538ONP\Desktop\AppointmentApp\Appointment-App\AppointmentsAplication\MediatorCqrs\Commands\DeleteAppointmentCommand.csutf-8

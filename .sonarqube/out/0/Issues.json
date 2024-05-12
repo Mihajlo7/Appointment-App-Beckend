@@ -1,0 +1,932 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "4.8.0.0",
+        "fileVersion": "4.8.0-1.23374.10 (520e2f10)",
+        "semanticVersion": "4.8.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Jmbg' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/WriteAppointments/UpdateAppointmentDTO.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 23,
+                  "endLine": 11,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/WriteAppointments/UpdateAppointmentDTO.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 23,
+                  "endLine": 11,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'AppointmentId' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/WriteAppointments/UpdateAppointmentDTO.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 23,
+                  "endLine": 12,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/WriteAppointments/UpdateAppointmentDTO.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 23,
+                  "endLine": 12,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'DoctorFirstName' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/WriteAppointments/UpdateAppointmentDTO.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 23,
+                  "endLine": 13,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/WriteAppointments/UpdateAppointmentDTO.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 23,
+                  "endLine": 13,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'DoctorLastName' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/WriteAppointments/UpdateAppointmentDTO.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 23,
+                  "endLine": 14,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/WriteAppointments/UpdateAppointmentDTO.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 23,
+                  "endLine": 14,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'TimeAppointment' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/WriteAppointments/UpdateAppointmentDTO.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 23,
+                  "endLine": 16,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/WriteAppointments/UpdateAppointmentDTO.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 23,
+                  "endLine": 16,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Title' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/Response/ActionAppointmentDTO.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 23,
+                  "endLine": 11,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/Response/ActionAppointmentDTO.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 23,
+                  "endLine": 11,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Message' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/Response/ActionAppointmentDTO.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 23,
+                  "endLine": 12,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/Response/ActionAppointmentDTO.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 23,
+                  "endLine": 12,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Jmbg' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/WriteAppointments/DeleteAppointmentDTO.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 23,
+                  "endLine": 11,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/WriteAppointments/DeleteAppointmentDTO.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 23,
+                  "endLine": 11,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'AppointmentId' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/WriteAppointments/DeleteAppointmentDTO.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 23,
+                  "endLine": 12,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/WriteAppointments/DeleteAppointmentDTO.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 23,
+                  "endLine": 12,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Jmbg' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/GetOverweightPeople/OverweightPeopleDTO.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 23,
+                  "endLine": 12,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/GetOverweightPeople/OverweightPeopleDTO.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 23,
+                  "endLine": 12,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'FirstName' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/GetOverweightPeople/OverweightPeopleDTO.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 23,
+                  "endLine": 13,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/GetOverweightPeople/OverweightPeopleDTO.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 23,
+                  "endLine": 13,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'LastName' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/GetOverweightPeople/OverweightPeopleDTO.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 23,
+                  "endLine": 14,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/GetOverweightPeople/OverweightPeopleDTO.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 23,
+                  "endLine": 14,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'DoctorFirstName' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/GetAppointments/GetAppointmentDTO.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 23,
+                  "endLine": 12,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/GetAppointments/GetAppointmentDTO.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 23,
+                  "endLine": 12,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'DoctorLastName' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/GetAppointments/GetAppointmentDTO.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 23,
+                  "endLine": 13,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/GetAppointments/GetAppointmentDTO.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 23,
+                  "endLine": 13,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Jmbg' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/WriteAppointments/InsertAppointmentDTO.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 23,
+                  "endLine": 11,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/WriteAppointments/InsertAppointmentDTO.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 23,
+                  "endLine": 11,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'DoctorFirstName' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/WriteAppointments/InsertAppointmentDTO.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 23,
+                  "endLine": 12,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/WriteAppointments/InsertAppointmentDTO.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 23,
+                  "endLine": 12,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'DoctorLastName' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/WriteAppointments/InsertAppointmentDTO.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 23,
+                  "endLine": 13,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/WriteAppointments/InsertAppointmentDTO.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 23,
+                  "endLine": 13,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'TimeAppointment' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/WriteAppointments/InsertAppointmentDTO.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 23,
+                  "endLine": 15,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/WriteAppointments/InsertAppointmentDTO.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 23,
+                  "endLine": 15,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Jmbg' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/GetAppointments/GetPersonWithAppointmentsDTO.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 23,
+                  "endLine": 12,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/GetAppointments/GetPersonWithAppointmentsDTO.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 23,
+                  "endLine": 12,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'FirstName' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/GetAppointments/GetPersonWithAppointmentsDTO.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 23,
+                  "endLine": 13,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/GetAppointments/GetPersonWithAppointmentsDTO.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 23,
+                  "endLine": 13,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'LastName' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/GetAppointments/GetPersonWithAppointmentsDTO.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 23,
+                  "endLine": 14,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/GetAppointments/GetPersonWithAppointmentsDTO.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 23,
+                  "endLine": 14,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'GetAppointmentDTO' to match pascal case naming rules, consider using 'GetAppointmentDto'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/GetAppointments/GetAppointmentDTO.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 18,
+                  "endLine": 9,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'GetMaxHeightDTO' to match pascal case naming rules, consider using 'GetMaxHeightDto'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/GetMaxHeight/GetMaxHeightDTO.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 18,
+                  "endLine": 9,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'OverweightPeopleDTO' to match pascal case naming rules, consider using 'OverweightPeopleDto'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/GetOverweightPeople/OverweightPeopleDTO.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 18,
+                  "endLine": 9,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'GetPersonWithAppointmentsDTO' to match pascal case naming rules, consider using 'GetPersonWithAppointmentsDto'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/GetAppointments/GetPersonWithAppointmentsDTO.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 18,
+                  "endLine": 9,
+                  "endColumn": 46
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'ActionAppointmentDTO' to match pascal case naming rules, consider using 'ActionAppointmentDto'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/Response/ActionAppointmentDTO.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 18,
+                  "endLine": 9,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'DeleteAppointmentDTO' to match pascal case naming rules, consider using 'DeleteAppointmentDto'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/WriteAppointments/DeleteAppointmentDTO.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 18,
+                  "endLine": 9,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'InsertAppointmentDTO' to match pascal case naming rules, consider using 'InsertAppointmentDto'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/WriteAppointments/InsertAppointmentDTO.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 18,
+                  "endLine": 9,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'UpdateAppointmentDTO' to match pascal case naming rules, consider using 'UpdateAppointmentDto'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Mihajlo.DESKTOP-T538ONP/Desktop/AppointmentApp/Appointment-App/AppointmentsAplication/DTOs/WriteAppointments/UpdateAppointmentDTO.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 18,
+                  "endLine": 9,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "CS8618": {
+          "id": "CS8618",
+          "shortDescription": "Non-nullable field must contain a non-null value when exiting constructor. Consider declaring as nullable.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8618)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "S101": {
+          "id": "S101",
+          "shortDescription": "Types should be named in PascalCase",
+          "fullDescription": "Shared naming conventions allow teams to collaborate efficiently.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-101",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
